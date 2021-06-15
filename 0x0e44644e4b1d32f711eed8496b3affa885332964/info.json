@@ -1,0 +1,11 @@
+{
+    "name": "Gallant Token",
+    "type": "BEP20",
+    "symbol": "GAL",
+    "decimals": 9,
+    "website": "https://GallantToken.com/",
+    "description": "Gallant Token is a RFI token that allows for passive income generation for investors. Here’s how it works. 10% on each transaction is split instantly among token holders and the LP wallet and rewarding holders. The Gallant Token protocol will add 8% of every transaction to Liquidity Pool and redistribute the remaining 2% to token holders as reward."
+    "explorer": "https://bscscan.com/token/0x0e44644e4b1d32f711eed8496b3affa885332964",
+    "status": "active",
+    "id": "0x0e44644e4b1d32f711eed8496b3affa885332964"
+}
